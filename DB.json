@@ -4,28 +4,28 @@
         "name": "iPhone 16 Pro",
         "desc": "iPhone 16 Pro — флагман Apple 2024 года",
         "img": "https://images.unsplash.com/photo-1695048133142-1a20484d2569?w=300&h=200&fit=crop&auto=format",
-        "price": (3999)
+        "price": 3999,
     },
     {
         "id": 1,
         "name": "iPhone 16 Pro",
         "desc": "iPhone 16 Pro — флагман Apple 2024 года",
         "img": "https://images.unsplash.com/photo-1695048133142-1a20484d2569?w=300&h=200&fit=crop&auto=format",
-        "price": (3999)
+        "price": 3999,
     },
     {
         "id": 2,
         "name": "Samsung Galaxy S24",
         "desc": "Флагман Samsung с искусственным интеллектом",
         "img": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=300&h=200&fit=crop&auto=format",
-        "price": (3299)
+        "price": 3299
     },
     {
         "id": 3,
         "name": "MacBook Air M3",
         "desc": "Ультратонкий ноутбук с чипом Apple M3",
         "img": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=300&h=200&fit=crop&auto=format",
-        "price": (4599)
+        "price": 4599,
     },
     	"id": 5,
 		"name": "Apple Watch Ultra",
@@ -38,97 +38,97 @@
         "name": "AirPods Max",
         "desc": "Премиальные наушники с шумоподавлением",
         "img": "https://images.unsplash.com/photo-1600294037681-c80b4cb5b434?w=300&h=200&fit=crop&auto=format",
-        "price": (1599)
+        "price": 1599,
     },
     {
         "id": 7,
         "name": "PlayStation 5",
         "desc": "Игровая консоль нового поколения",
         "img": "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?w=300&h=200&fit=crop&auto=format",
-        "price": (2299)
+        "price": 2299,
     },
     {
         "id": 8,
         "name": "Xbox Series X",
         "desc": "Самая мощная консоль от Microsoft",
         "img": "https://images.unsplash.com/photo-1621259182978-fbf93132d53d?w=300&h=200&fit=crop&auto=format",
-        "price": (2199)
+        "price": 2199,
     },
     {
         "id": 9,
         "name": "Nintendo Switch",
         "desc": "Гибридная игровая приставка",
         "img": "https://images.unsplash.com/photo-1578303512597-81e6cc155b3e?w=300&h=200&fit=crop&auto=format",
-        "price": (1499)
+        "price": 1499,
     },
     {
         "id": 10,
         "name": "Sony WH-1000XM5",
         "desc": "Наушники с шумоподавлением",
         "img": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=300&h=200&fit=crop&auto=format",
-        "price": (1299)
+        "price": 1299,
     },
     {
         "id": 11,
         "name": "DJI Mini 3 Pro",
         "desc": "Компактный дрон с камерой 4K",
         "img": "https://images.unsplash.com/photo-1473968512647-3e447244af8f?w=300&h=200&fit=crop&auto=format",
-        "price": (3899)
+        "price": 3899,
     },
     {
         "id": 12,
         "name": "GoPro Hero 12",
         "desc": "Экшн-камера для активного отдыха",
         "img": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=300&h=200&fit=crop&auto=format",
-        "price": (1999)
+        "price": 1999,
     },
     {
         "id": 13,
         "name": "Kindle Paperwhite",
         "desc": "Электронная книга с подсветкой",
         "img": "https://images.unsplash.com/photo-1544716278-e513176f20b5?w=300&h=200&fit=crop&auto=format",
-        "price": (799)
+        "price": 799,
     },
     {
         "id": 14,
         "name": "LG OLED C3",
         "desc": "Телевизор с технологией OLED",
         "img": "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?w=300&h=200&fit=crop&auto=format",
-        "price": (6999)
+        "price": 6999,
     },
     {
         "id": 15,
         "name": "Dyson V15",
         "desc": "Беспроводной пылесос",
         "img": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=300&h=200&fit=crop&auto=format",
-        "price": (2999)
+        "price": 2999,
     },
     {
         "id": 16,
         "name": "Xiaomi Robot Vacuum",
         "desc": "Робот-пылесос с навигацией",
         "img": "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=300&h=200&fit=crop&auto=format",
-        "price": (1899)
+        "price": 1899,
     },
     {
         "id": 17,
         "name": "Canon EOS R6",
         "desc": "Профессиональная камера",
         "img": "https://images.unsplash.com/photo-1512790182412-b19e6d62bc39?w=300&h=200&fit=crop&auto=format",
-        "price": (9999)
+        "price": 9999,
     },
     {
         "id": 18,
         "name": "Logitech MX Master",
         "desc": "Эргономичная мышь",
         "img": "https://images.unsplash.com/photo-1527814050087-3793815479db?w=300&h=200&fit=crop&auto=format",
-        "price": (699)
+        "price": 699,
     },
     {
         "id": 19,
         "name": "Razer BlackWidow",
         "desc": "Игровая клавиатура",
         "img": "https://images.unsplash.com/photo-1541140532154-b024d705b90a?w=300&h=200&fit=crop&auto=format",
-        "price": (1499)
+        "price": 1499,
     }
 ]
