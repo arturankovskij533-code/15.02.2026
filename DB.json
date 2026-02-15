@@ -27,13 +27,13 @@
         "img": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=300&h=200&fit=crop&auto=format",
         "price": 4599
     },
-	{
-		"id": 4,
-		"name": "iPad Pro",
-		"desc": "Профессиональный планшет для творчества",
-		"img": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=300&h=200&fit=crop&auto=format",
-		"price": 3499,
-	},
+    {
+        "id": 4,
+        "name": "iPad Pro",
+        "desc": "Профессиональный планшет для творчества",
+        "img": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=300&h=200&fit=crop&auto=format",
+        "price": 3499
+    },
     {
         "id": 5,
         "name": "Apple Watch Ultra",
@@ -113,14 +113,14 @@
     },
     {
         "id": 16,
-        "name": "Xiaomi Robot Vacuum",
-        "desc": "Робот-пылесос с навигацией",
+        "name": "Xiaomi Robot Vacuum","desc": "Робот-пылесос с навигацией",
         "img": "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=300&h=200&fit=crop&auto=format",
         "price": 1899
     },
     {
         "id": 17,
-        "name": "Canon EOS R6","desc": "Профессиональная камера",
+        "name": "Canon EOS R6",
+        "desc": "Профессиональная камера",
         "img": "https://images.unsplash.com/photo-1512790182412-b19e6d62bc39?w=300&h=200&fit=crop&auto=format",
         "price": 9999
     },
