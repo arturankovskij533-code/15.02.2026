@@ -27,6 +27,7 @@
         "img": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=300&h=200&fit=crop&auto=format",
         "price": 4599,
     },
+	{
     	"id": 5,
 		"name": "Apple Watch Ultra",
 		"desc": "Часы для экстремальных условий",
